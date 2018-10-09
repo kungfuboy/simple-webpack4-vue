@@ -14,6 +14,6 @@ export default {
 </script>
 <style lang='less'>
 .main {
-  color: #0000ff;
+  color: blue;
 }
 </style>
