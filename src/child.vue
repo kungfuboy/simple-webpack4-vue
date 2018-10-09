@@ -1,5 +1,5 @@
 <template>
-  <div class="main">这是子组件</div>
+  <div class="main">子组件是 红色</div>
 </template>
 <script>
 export default {

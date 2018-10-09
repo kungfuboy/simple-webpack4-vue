@@ -1,6 +1,6 @@
 <template>
     <div class="main">
-        <div>这是父组件</div>
+        <div>父组件是 蓝色</div>
         <child />
     </div>
 </template>
